@@ -6,13 +6,14 @@ const headers = {
   "Authorization": "[EDIT THIS FILE AND ENTER TOKEN HERE]"
 }
 
-exampleFrames = [  //not used
+exampleFrames = [  //example animation, cycles through rainbow circles
     "🔴",
     "🟠",
     "🟡",
     "🟢",
     "🔵",
-    "🟣"]
+    "🟣",
+]
     
 frames = [  //edit this to add different animations!  make sure any new lines are in quotes and have commas after them
 "a mimir 😴💤",
